@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fuzzy.iml" filepath="$PROJECT_DIR$/.idea/modules/Fuzzy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fuzzy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Fuzzy_main.iml" group="Fuzzy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fuzzy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Fuzzy_test.iml" group="Fuzzy" />
+    </modules>
+  </component>
+</project>
