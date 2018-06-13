@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
         LevenshteinDistance ld = new LevenshteinDistance();
 
-        String target = "what are steps to install on iOS";
+        String target = "what are steps to install on Android";
         String[] tokens = target.split(" ");
         StringBuffer targetSB = new StringBuffer();
         for (String token : tokens) {
